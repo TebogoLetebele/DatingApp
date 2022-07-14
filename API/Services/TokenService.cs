@@ -1,8 +1,8 @@
+using API.Entities;
+using API.Interfaces;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using API.Entities;
-using API.Interfaces;
 using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
